@@ -1,11 +1,16 @@
 _repo: The-fetish-folk-of-West-Africa_72480
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72480-h/images/cover.jpg
 creator:
   author:
     agent_name: Milligan, Robert H.
     gutenberg_agent_id: '56479'
     url: http://www.gutenberg.org/2009/agents/56479
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72480#The-fetish-folk-of-West-Africa
 gutenberg_issued: '2023-12-22'
 gutenberg_type: Text
 identifiers:
